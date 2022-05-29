@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="34cc1e99-0968-4afa-97b6-43cc1ede39bf" name="Unnamed" defaultType="MAKE">
+      <configuration id="a6e256c7-6414-4bc4-814c-34e084ca3fce" name="Unnamed">
+        <build type="MAKE">
+          <make targetName="lastal" />
+        </build>
+      </configuration>
+    </target>
+  </component>
+</project>
